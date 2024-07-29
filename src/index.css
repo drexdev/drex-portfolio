@@ -20,3 +20,8 @@
   font-family: "Mono Sans";
   src: url("./assets/Mona-Sans.ttf");
 }
+
+@font-face {
+  font-family: "Rebond Grotesque";
+  src: url("./assets/Rebond-Grotesque.otf");
+}

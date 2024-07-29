@@ -8,9 +8,11 @@ export default {
     extend: {
       fontFamily: {
         'mono': ['"Mono Sans"', 'sans-serif'],
+        'rebond': ['"Rebond Grotesque"', 'sans-serif'],
       },
       colors: {
-        'background': '#030712',
+        'background': '#0a0118',
+        'primary': '#525eff'
       }
     },
   },

@@ -1,7 +1,10 @@
+import { Header } from "../components/Header";
+
 export function Home() {
-    return (
-        <div>
-            <h1>Bem-vindo ao meu portfolio, Lucas!</h1>
-        </div>
-    )
+  return (
+    <div>
+      <Header brandName="drexdev" />
+      <main className="mx-auto max-w-7xl"></main>
+    </div>
+  );
 }
